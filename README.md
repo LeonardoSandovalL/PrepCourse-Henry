@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo 2 del prepcourse de henry
+Leonardo Sandova
+Este proyecto es un prueba de como crear un repositorio etcetcetc
+
